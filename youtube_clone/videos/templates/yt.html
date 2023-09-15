@@ -1,0 +1,48 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YouTube Video Downloader</title>
+    <link rel="stylesheet" href="{% static 'css/dnldr.css' %}">
+</head>
+<body>
+    <center>
+    <div class="modal ">
+        <div class="cards__card card">
+            <h2 class="card__heading">youtube video downloader</h2>
+            <p class="card__price">Download Video</p>
+            
+            <div><img src="{% static 'imgs/icons8-youtube-94.png' %}" alt=""></div>
+            
+          
+          
+          <div class="modal-content">
+            <h1>YouTube Video Downloader</h1>
+            <form method="post" action="{% url 'download' %}">
+              {% csrf_token %}
+              <label for="video-link">Enter YouTube Video URL:</label>
+              <input type="text" id="video-link" name="video_link" placeholder="paste link here/wait few sec after clicking download">
+              <input type="hidden" id="download-path" name="download_path" value="C:/Users/acer/Downloads">
+              <button class="card__cta cta" type="submit">Download</button>
+            </form>
+            {% if video_url %}
+            <p>Downloaded video: <a href="{{ video_url }}">{{ video_url }}</a></p>
+            <div class="video-container">
+              <iframe width="560" height="315" src="{{ video_embed_url }}" frameborder="0" allowfullscreen></iframe>
+            </div>
+            {% endif %}
+            <div class="error-message">
+              {% if error_message %}
+              {{ error_message }}
+              {% endif %}
+            </div>
+          </div>
+          
+    </div>
+    </div>
+</center>
+    <script src="{% static 'js/dnldr.js' %}"></script>
+</body>
+</html>
