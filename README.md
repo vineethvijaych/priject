@@ -1,13 +1,17 @@
 # YOUTUBE CLONE AND VIDEO DOWNLOADER
-![Screenshot (52)](https://github.com/vineethvijaych/project/assets/131109799/8ddf7800-2645-4d60-8094-b1cb90a4046a)
+![Screenshot (66)](https://github.com/vineethvijaych/project/assets/131109799/708abe1d-df95-406f-81b9-cb8a4c52fa1e)
+
 GETTING ACCESS TO VIDEO DOWNLOADER BY LOGING IN
-![Screenshot (54)](https://github.com/vineethvijaych/project/assets/131109799/0b1eb674-f7c2-4503-a07b-2593b30e2d45)
-![Screenshot (58)](https://github.com/vineethvijaych/project/assets/131109799/b0c2c431-1225-4f71-a75a-9a2bf92618ba)
+![Screenshot (67)](https://github.com/vineethvijaych/project/assets/131109799/f5318ee5-cd7c-4706-a9be-4a198c4ed63c)
+![Screenshot (68)](https://github.com/vineethvijaych/project/assets/131109799/8e93bffe-e0f4-412a-b7c6-c38428c9345d)
+
 VIDEO DOWNLOADER HOMEPAGE
-![Screenshot (59)](https://github.com/vineethvijaych/project/assets/131109799/e620cc6e-f198-4fda-8f4c-7817e0f1e8c1)
+![Screenshot (69)](https://github.com/vineethvijaych/project/assets/131109799/b6f4cf74-7dfa-459a-accc-a244181fdbaf)
+
 YOUTUBE VIDEO DOWNLOADER
-![Screenshot (60)](https://github.com/vineethvijaych/project/assets/131109799/85d64c36-3700-4929-a61d-03ba6a1bf1fa)
-![Screenshot (61)](https://github.com/vineethvijaych/project/assets/131109799/b5f75a47-0258-412c-9733-c0d3afd3bbdd)
-![Screenshot (62)](https://github.com/vineethvijaych/project/assets/131109799/d2273d4c-ea2a-47c2-992c-372f8bc32a95)
-![Screenshot (63)](https://github.com/vineethvijaych/project/assets/131109799/f9024f8b-f0c4-46fd-a75b-a863c55d18ad)
-![Screenshot (64)](https://github.com/vineethvijaych/project/assets/131109799/b8bb3514-4ba3-4670-ae18-bbda15c3c1fe)
+
+![Screenshot (70)](https://github.com/vineethvijaych/project/assets/131109799/1c885808-b222-4bbf-bd4c-f1e8ac0c8b45)
+![Screenshot (71)](https://github.com/vineethvijaych/project/assets/131109799/c5da826e-91cd-4ef8-bcbd-cf5500752481)
+![Screenshot (72)](https://github.com/vineethvijaych/project/assets/131109799/712cc7d2-1d1b-4f63-8d88-8dda58468f2e)
+![Screenshot (73)](https://github.com/vineethvijaych/project/assets/131109799/327d4f74-0950-4280-aa22-746fa15b4461)
+![Screenshot (74)](https://github.com/vineethvijaych/project/assets/131109799/705a066c-4251-4d88-b02c-36b1a3828971)
